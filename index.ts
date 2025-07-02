@@ -7,5 +7,7 @@ function add(a: number, b: number): number {
   
 
   function combine(a: number | string, b: number | string){
-    
+    if(a typeof number === a){
+      console.log()
+    }
   }

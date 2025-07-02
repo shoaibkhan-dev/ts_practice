@@ -6,5 +6,6 @@ function add(a: number, b: number): number {
   console.log(result);
   
 
-  function
-  
+  function combine(a: number | string, b: number | string){
+    
+  }
